@@ -9,3 +9,19 @@ Enter the code
 When you press enter it opens a alert box on the tab on the browser, saying "hello".
 This code will be not retained and is temporary, when you press the F5 or refresh the page, the Broswer then clears away this code.
 
+
+The best IDE or integrated development environment for learning JS is Visual Studio Code, you can install it via web search.
+
+
+Let us start with the code now:
+Console.log(); is used to print a message to the console.
+
+() these are called Paranetheses; if you write anything in ' [single quote] or " [double quotes] you can print that out to the screen.
+semi colon is the end of the statement or full stop for the statement of Javascript code.
+
+For e.g.: console.log("hello World!");
+
+This will print out : hello World!
+on the out put.
+
+
