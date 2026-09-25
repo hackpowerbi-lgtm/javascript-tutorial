@@ -1,0 +1,11 @@
+JS is a programming language.
+We use it to give instructions to the computer.
+This runs on the Browsers also, web browsers like Edge, Chrome, Safari etc.
+
+You can visit the Browser console and you can write Javascript there to practise JS.
+In google chrome you can right click and select inspect, switch to the Console tab and then clear the console.
+Enter the code
+    alert("hello");
+When you press enter it opens a alert box on the tab on the browser, saying "hello".
+This code will be not retained and is temporary, when you press the F5 or refresh the page, the Broswer then clears away this code.
+
